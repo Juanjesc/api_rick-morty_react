@@ -1,3 +1,6 @@
+html{
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
@@ -150,5 +153,9 @@ body {
 
   .character-container img {
     width: 150px;
+  }
+  .img-home{
+    width: 90%;
+    padding: 30px 0;
   }
 }
